@@ -59,7 +59,7 @@
     "@nuxt/core": "2.13.3",
     "@nuxt/telemetry": "^1.2.1",
     "node-fetch": "^2.6.0",
-    "vue": "dseidl/vue#hydration-logs",
+    "vue": "https://github.com/dseidl/vue#hydration-logs",
     "vue-client-only": "^2.0.0",
     "vue-meta": "^2.4.0",
     "vue-no-ssr": "^1.1.1",
