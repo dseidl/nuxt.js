@@ -13,7 +13,7 @@
     "consola": "^2.14.0",
     "fs-extra": "^8.1.0",
     "lru-cache": "^5.1.1",
-    "vue": "^2.6.11",
+    "vue": "dseidl/vue#hydration-logs",
     "vue-meta": "^2.4.0",
     "vue-server-renderer": "^2.6.11"
   },
