@@ -1,6 +1,7 @@
 {
   "name": "nuxt.js",
   "private": true,
+  "version": "2.13.3",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nuxt/nuxt.js.git"
